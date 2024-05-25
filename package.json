@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	
+	"author": "Khushi Garg",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"author": "Khushi Garg"
+	}
 }
